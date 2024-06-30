@@ -1,4 +1,3 @@
-Description
 This Todo App is a simple web application built with [list technologies or frameworks used, e.g., HTML, CSS, JavaScript, React] for managing tasks and to-do lists efficiently. Users can add, delete, and mark tasks as complete, providing a straightforward interface for organizing daily tasks.
 
 Features
